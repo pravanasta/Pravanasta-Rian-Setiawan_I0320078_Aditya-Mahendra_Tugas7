@@ -11,7 +11,7 @@ print("\n", str2.center(50))
 print("""
 1. Nilai mutlak
 2. Nilai akar
-3. Pembulatan kebawah
+3. Pembulatan ke bawah
 4. Pembulatan ke atas
 """)
 
