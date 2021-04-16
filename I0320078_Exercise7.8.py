@@ -1,3 +1,3 @@
 str = "hello world"
-s = str.center(20,'x')
+s = str.center(20,'*')
 print(s)
